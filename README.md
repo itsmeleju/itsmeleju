@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   
   <!-- Animated Welcome Header -->
@@ -51,10 +49,10 @@ I am actively developing and maintaining custom Android software to squeeze maxi
 Here are the programming languages, tools, and technologies I work with across my academic curriculum and personal development:
 
 <table>
-  <tr>
+  </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br />PHP
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br />Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -65,9 +63,8 @@ Here are the programming languages, tools, and technologies I work with across m
       <br />Java
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br />PHP
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br />HTML5
@@ -99,9 +96,17 @@ Here are the programming languages, tools, and technologies I work with across m
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Achievements & Stats
 
 <div align="center">
+  <!-- Clickable Official GitHub Achievements Badge -->
+  <a href="https://github.com/itsmeleju?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  </a>
+  
+  <br /><br />
+  
+  <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeleju&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -122,6 +127,7 @@ Here are the programming languages, tools, and technologies I work with across m
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playwrite+England+Joined&weight=600&size=24&pause=1000&width=435&lines=Thank+for+visiting+my+profile" alt="Typing SVG" />
+  <br>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR2NGV3aDBlYnpoM2tvZzVrMmhpMW04NXBpdjZrMmNrZXdpN3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"&theme=fun-coding_cat" alt="cat-fun_coding" />
 </div>
 <br />
