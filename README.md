@@ -3,13 +3,12 @@
 <div align="center">
   
   <!-- Animated Welcome Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Leju+%F0%9F%91%8B;Welcome+to+my+Tech+Space+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&width=435&lines=Hi+there!+%40itsmeleju;Welcome+to+my+Tech+Space" alt="into" />
 
   <p align="center">
-    <strong>🎓 Pursuing PGDCA | 📊 B.Com Computer Graduate | 💻 Techie & Kernel Enthusiast</strong>
+    <strong>🎓 Pursuing PGDCA | 📊 B.Com Computer Graduate | 💻 Techie & Android Enthusiast</strong>
   </p>
 
-  <!-- Cool Banner Image -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U0bmt0M3AxeWl6bmtvYXA4dzN4eHd0MmJodDQycmNvd2R3aXN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaG9udXNfYmFubmVyX2lkJmN0PWc/Q87XPC9BccO1G/giphy.gif" width="100%" alt="Coding Banner" style="border-radius: 10px;"/>
 
   <br/><br/>
@@ -24,10 +23,10 @@
 
 ### 💫 About Me
 
-- 🚀 **Currently Pursuing:** Post Graduate Diploma in Computer Applications (**PGDCA**), paving the way towards **MCA**.
-- 🎓 **Background:** Graduate in **B.Com Computer Applications** — blending business logic with computer science.
-- 🛠️ **Daily Driver:** Dual-booting **Arch Linux** (for the real techie experience) and **Windows** on my laptop.
-- ⚡ **Obsession:** Keeping up with ever-changing technology, exploring software architecture, and chilling with good music.
+- 🚀 **Currently Pursuing:** Post Graduate Diploma in Computer Applications (**PGDCA**), paving the way towards **MCA** 💻.
+- 🎓 **Background:** Graduate in **B.Com Computer Applications** — blending my business knowledge with computer science.
+- 🛠️ **Daily Driver:** Dual-booting **Arch Linux** and **Windows** on laptop for - productivity & **Samsung A32** - **Android, OneUI** for daily driver.
+- ⚡ **Obsession:** Keeping up with ever-changing technology, exploring internet and its trends, and enjoy chilling with music.
 
 ---
 
@@ -37,12 +36,12 @@ I am actively developing and maintaining custom Android software to squeeze maxi
 
 <div align="center">
   <a href="https://github.com/itsmeleju/android_kernel_samsung_mt6768">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeleju&repo=android_kernel_samsung_mt6768&theme=tokyonight" alt="NoobieKernel" />
+    <img src="https://github.com/itsmeleju/itsmeleju/blob/main/photo_2026-05-28_23-31-07.jpg" width=400 length=600 &repo=android_kernel_samsung_mt6768&theme=tokyonight" alt="NoobieKernel" />
   </a>
 </div>
 
 - 📱 **Project:** [NoobieKernel (android_kernel_samsung_mt6768)](https://github.com/itsmeleju/android_kernel_samsung_mt6768)
-- 🔧 **Target:** Samsung A32 4G (MediaTek MT6768)
+- 🔧 **Target:** [Samsung A32 4G](https://www.gsmarena.com/samsung_galaxy_a32-10753.php) (MediaTek MT6768)
 - 🎯 **Goal:** Kernel compiling, optimization, learning upstreaming, and building a smooth, customized Android kernel from source.
 
 ---
@@ -54,8 +53,8 @@ Here are the programming languages, tools, and technologies I work with across m
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br />C
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br />PHP
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -76,8 +75,8 @@ Here are the programming languages, tools, and technologies I work with across m
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br />CSS3
+      <img src="https://static.thenounproject.com/png/cyber-security-icon-7592022-512.png" width="48" height="48" alt="Cybersecurity" />
+      <br />Cybersecurity
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
@@ -92,8 +91,8 @@ Here are the programming languages, tools, and technologies I work with across m
       <br />Arch Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
     </td>
   </tr>
 </table>
@@ -103,7 +102,6 @@ Here are the programming languages, tools, and technologies I work with across m
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeleju&show_icons=true&theme=tokyonight&count_private=true" alt="Leju's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeleju&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -111,16 +109,19 @@ Here are the programming languages, tools, and technologies I work with across m
 
 ### 🤝 Connect with Me
 
-Let's talk about Android trees, kernel optimization, latest tech news, or trade music playlists!
-
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/Bootloopzz" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chatroom" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/itsmeleju" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
+<br>
+<p align="center"><i>"Compiling code, compiling kernels, and vibing with tech."</i></p>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playwrite+England+Joined&weight=600&size=24&pause=1000&width=435&lines=Thank+for+visiting+my+profile" alt="Typing SVG" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR2NGV3aDBlYnpoM2tvZzVrMmhpMW04NXBpdjZrMmNrZXdpN3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"&theme=fun-coding_cat" alt="cat-fun_coding" />
+</div>
 <br />
-<p align="center"><i>"Compiling code, compiling kernels, and enjoying the rhythm of tech."</i></p>
