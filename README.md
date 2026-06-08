@@ -2,7 +2,7 @@
   
   <!-- Animated Welcome Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&width=435&lines=Hi+there!+%40itsmeleju;Welcome+to+my+Tech+Space" alt="into" />
-
+<img src="https://c.tenor.com/77rqMj3uomoAAAAC/tenor.gif"&theme=fun-panic_cat" width="90" alt="cat-panic" />
   <p align="center">
     <strong>🎓 Pursuing PGDCA | 📊 B.Com Computer Graduate | 💻 Techie & Android Enthusiast</strong>
   </p>
@@ -30,7 +30,7 @@
 
 ### 🛠️ Current Focus & Featured Project
 
-I am actively developing and maintaining custom Android software to squeeze maximum performance out of my primary device.
+I am actively developing and maintaining custom samsung kernel to integrate additional features and performance out of my main device.
 
 <div align="center">
   <a href="https://github.com/itsmeleju/android_kernel_samsung_mt6768">
@@ -40,11 +40,11 @@ I am actively developing and maintaining custom Android software to squeeze maxi
 
 - 📱 **Project:** [NoobieKernel (android_kernel_samsung_mt6768)](https://github.com/itsmeleju/android_kernel_samsung_mt6768)
 - 🔧 **Target:** [Samsung A32 4G](https://www.gsmarena.com/samsung_galaxy_a32-10753.php) (MediaTek MT6768)
-- 🎯 **Goal:** Kernel compiling, optimization, learning upstreaming, and building a smooth, customized Android kernel from source.
+- 🎯 **Goal:** Kernel compiling, optimization, learning new skill, and building a smooth, customized Android kernel from source.
 
 ---
 
-### 🧰 Skills & Tools (PGDCA / MCA Stack)
+### 🧰 Skills & Tools (Based on PGDCA / MCA Stack)
 
 Here are the programming languages, tools, and technologies I work with across my academic curriculum and personal development:
 
