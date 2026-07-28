@@ -22,7 +22,7 @@
 ### 💫 About Me
 
 - 🚀 **Currently Pursuing:** Post Graduate Diploma in Computer Applications (**PGDCA**), paving the way towards **MCA** 💻.
-- 🎓 **Background:** Graduate in **B.Com Computer Applications** — blending my business knowledge with computer science.
+- 🎓 **Background:** Graduate in **B.Com Computer Applications** — blending my business knowledge with computer science 😁.
 - 🛠️ **Daily Driver:** Dual-booting **Arch Linux** and **Windows** on laptop for - productivity & **Samsung A32** - **Android, OneUI** for daily driver.
 - ⚡ **Obsession:** Keeping up with ever-changing technology, exploring internet and its trends, and enjoy chilling with music.
 
@@ -96,29 +96,13 @@ Here are the programming languages, tools, and technologies I work with across m
 
 ---
 
-### 📊 GitHub Achievements & Stats
-
-<div align="center">
-  <!-- Clickable Official GitHub Achievements Badge -->
-  <a href="https://github.com/itsmeleju?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
-  </a>
-  
-  <br /><br />
-  
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeleju&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🤝 Connect with Me
 
 <div align="center">
   <a href="https://t.me/Bootloopzz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chatroom" />
   </a>
-  <a href="https://instagram.com/itsmeleju" target="_blank">
+  <a href="https://www.instagram.com/noobiethingz143" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -126,7 +110,7 @@ Here are the programming languages, tools, and technologies I work with across m
 <p align="center"><i>"Compiling code, compiling kernels, and vibing with tech."</i></p>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playwrite+England+Joined&weight=600&size=24&pause=1000&width=435&lines=Thank+for+visiting+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playwrite+England+Joined&weight=600&size=24&pause=1000&width=435&lines=Thanks+for+visiting+my+profile" alt="Typing SVG" />
   <br>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR2NGV3aDBlYnpoM2tvZzVrMmhpMW04NXBpdjZrMmNrZXdpN3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"&theme=fun-coding_cat" alt="cat-fun_coding" />
 </div>
